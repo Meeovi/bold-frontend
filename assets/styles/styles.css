@@ -26,6 +26,8 @@ body {
 
 .contentCard {
     padding: 50px !important;
+    padding-left: 10px !important;
+    height: 100vh !important;
 }
 
 .contentCard td, .contentCard tr {
@@ -38,6 +40,21 @@ body {
 
 .contentRight {
     width: 100vw !important;
+}
+
+.services4, .features4 {
+    background-color: transparent !important;
+}
+
+.content10 {
+    top: 20px;
+    background-color: transparent !important;
+    width: 100% !important;
+}
+
+.content10 h5 {
+    width: 100%;
+    text-align: center;
 }
 
 /******************* Main Section CSS *********/

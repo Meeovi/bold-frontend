@@ -1,6 +1,6 @@
 <template>
     <div>
-        <section class="services2 cid-soby6viI3p" id="services2-13">
+        <section class="services2 cid-sodtd1J1l8" id="services2-1k">
     <!---->
     
     <!---->
@@ -10,8 +10,8 @@
     <div class="container">
         <div class="col-md-12">
             <div class="media-container-row">
-                <div class="mbr-figure" style="width: 55%;">
-                    <img src="../../assets/images/product1.jpg" alt="ShopnBold">
+                <div class="mbr-figure" style="width: 50%;">
+                    <img src="../assets/images/product1.jpg" alt="ShopnBold">
                 </div>
                 <div class="align-left aside-content">
                     <h2 class="mbr-title pt-2 mbr-fonts-style display-2">
@@ -38,58 +38,7 @@
     </div>
 </section>
 
-<section class="features4 cid-sobyxBeRox" id="features4-14">
-    
-         
-
-    
-    <div class="container">
-        <div class="media-container-row">
-            <div class="card p-3 col-12 col-md-6 col-lg-4">
-                <div class="card-wrapper media-container-row media-container-row">
-                    <div class="card-box">
-                        <h4 class="card-title pb-3 mbr-fonts-style display-7">
-                            No Coding
-                        </h4>
-                        <p class="mbr-text mbr-fonts-style display-7">
-                            Mobirise is an easy website builder - just drop site elements to your page, add content and style it to look the way you like.
-                        </p>
-                    </div>
-                </div>
-            </div>
-
-            <div class="card p-3 col-12 col-md-6 col-12 col-md-6 col-lg-4">
-                <div class="card-wrapper media-container-row">
-                    <div class="card-box">
-                        <h4 class="card-title pb-3 mbr-fonts-style display-7">
-                            Mobile Friendly
-                        </h4>
-                        <p class="mbr-text mbr-fonts-style display-7">
-                            All sites you make with Mobirise are mobile-friendly. You don't have to create a special mobile version of your site.
-                        </p>
-                    </div>
-                </div>
-            </div>
-
-            <div class="card p-3 col-12 col-md-6 col-lg-4">
-                <div class="card-wrapper media-container-row">
-                    <div class="card-box">
-                        <h4 class="card-title pb-3 mbr-fonts-style display-7">
-                            Unique Styles
-                        </h4>
-                        <p class="mbr-text mbr-fonts-style display-7">
-                            Mobirise offers many site blocks in several themes, and though these blocks are pre-made, they are flexible.
-                        </p>
-                    </div>
-                </div>
-            </div>
-
-            
-        </div>
-    </div>
-</section>
-
-<section class="mbr-section article content1 cid-sobx2LJOrN" id="content1-10">
+<section class="mbr-section article content1 cid-sodtkBxZWB" id="content1-1p">
     
      
 
@@ -101,7 +50,7 @@
     </div>
 </section>
 
-<section class="services1 cid-sobxooKVZg" id="services1-11">
+<section class="services1 cid-sodtfti7SH" id="services1-1l">
     <!---->
     
     <!---->
@@ -112,7 +61,7 @@
         <div class="row justify-content-center">
             <!--Titles-->
             <div class="title pb-5 col-12">
-                <h2 class="align-left pb-3 mbr-fonts-style display-5">
+                <h2 class="align-left pb-3 mbr-fonts-style display-2">
                     Similar Products</h2>
                 
             </div>
@@ -120,7 +69,7 @@
             <div class="card col-12 col-md-6 p-3 col-lg-4">
                 <div class="card-wrapper">
                     <div class="card-img">
-                        <img src="../../assets/images/product1.jpg" alt="ShopnBold">
+                        <img src="../assets/images/product1.jpg" alt="ShopnBold">
                     </div>
                     <div class="card-box">
                         <h4 class="card-title mbr-fonts-style display-5">
@@ -143,7 +92,7 @@
             <div class="card col-12 col-md-6 p-3 col-lg-4">
                 <div class="card-wrapper">
                     <div class="card-img">
-                        <img src="../../assets/images/product1.jpg" alt="ShopnBold">
+                        <img src="../assets/images/product1.jpg" alt="ShopnBold">
                     </div>
                     <div class="card-box">
                         <h4 class="card-title mbr-fonts-style display-5">
@@ -166,7 +115,7 @@
             <div class="card col-12 col-md-6 p-3 col-lg-4 last-child">
                 <div class="card-wrapper">
                     <div class="card-img">
-                        <img src="../../assets/images/product1.jpg" alt="ShopnBold">
+                        <img src="../assets/images/product1.jpg" alt="ShopnBold">
                     </div>
                     <div class="card-box">
                         <h4 class="card-title mbr-fonts-style display-5">
@@ -191,7 +140,7 @@
     </div>
 </section>
 
-<section class="services1 cid-sobxoTBWms" id="services1-12">
+<section class="services1 cid-sodtfYqpjM" id="services1-1m">
     <!---->
     
     <!---->
@@ -202,15 +151,15 @@
         <div class="row justify-content-center">
             <!--Titles-->
             <div class="title pb-5 col-12">
-                <h2 class="align-left pb-3 mbr-fonts-style display-5">
-                    Recently Viewed</h2>
+                <h2 class="align-left pb-3 mbr-fonts-style display-2">
+                    From our Shop</h2>
                 
             </div>
             <!--Card-1-->
             <div class="card col-12 col-md-6 p-3 col-lg-4">
                 <div class="card-wrapper">
                     <div class="card-img">
-                        <img src="../../assets/images/product1.jpg" alt="ShopnBold">
+                        <img src="../assets/images/product1.jpg" alt="ShopnBold">
                     </div>
                     <div class="card-box">
                         <h4 class="card-title mbr-fonts-style display-5">
@@ -233,7 +182,7 @@
             <div class="card col-12 col-md-6 p-3 col-lg-4">
                 <div class="card-wrapper">
                     <div class="card-img">
-                        <img src="../../assets/images/product1.jpg" alt="ShopnBold">
+                        <img src="../assets/images/product1.jpg" alt="ShopnBold">
                     </div>
                     <div class="card-box">
                         <h4 class="card-title mbr-fonts-style display-5">
@@ -256,7 +205,7 @@
             <div class="card col-12 col-md-6 p-3 col-lg-4 last-child">
                 <div class="card-wrapper">
                     <div class="card-img">
-                        <img src="../../assets/images/product1.jpg" alt="ShopnBold">
+                        <img src="../assets/images/product1.jpg" alt="ShopnBold">
                     </div>
                     <div class="card-box">
                         <h4 class="card-title mbr-fonts-style display-5">
@@ -276,6 +225,170 @@
                 </div>
             </div>
             <!--Card-4-->
+            
+        </div>
+    </div>
+</section>
+
+<section class="services1 cid-sodtgLWf1b" id="services1-1n">
+    <!---->
+    
+    <!---->
+    <!--Overlay-->
+    
+    <!--Container-->
+    <div class="container">
+        <div class="row justify-content-center">
+            <!--Titles-->
+            <div class="title pb-5 col-12">
+                <h2 class="align-left pb-3 mbr-fonts-style display-2">
+                    Recently Viewed</h2>
+                
+            </div>
+            <!--Card-1-->
+            <div class="card col-12 col-md-6 p-3 col-lg-4">
+                <div class="card-wrapper">
+                    <div class="card-img">
+                        <img src="../assets/images/product1.jpg" alt="ShopnBold">
+                    </div>
+                    <div class="card-box">
+                        <h4 class="card-title mbr-fonts-style display-5">
+                            Watch Star
+                        </h4>
+                        <p class="mbr-text mbr-fonts-style display-7">
+                            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab accusantium dolores doloribus
+                            eligendi eum illo placeat quis repellendus sequi tempore!
+                        </p>
+                        <!--Btn-->
+                        <div class="mbr-section-btn align-left">
+                            <a href="/" class="btn btn-warning-outline display-4">
+                                $ 790
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!--Card-2-->
+            <div class="card col-12 col-md-6 p-3 col-lg-4">
+                <div class="card-wrapper">
+                    <div class="card-img">
+                        <img src="../assets/images/product1.jpg" alt="ShopnBold">
+                    </div>
+                    <div class="card-box">
+                        <h4 class="card-title mbr-fonts-style display-5">
+                            Watch Special
+                        </h4>
+                        <p class="mbr-text mbr-fonts-style display-7">
+                            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab accusantium dolores doloribus
+                            eligendi eum illo placeat quis repellendus sequi tempore!
+                        </p>
+                        <!--Btn-->
+                        <div class="mbr-section-btn align-left">
+                            <a href="/" class="btn btn-warning-outline display-4">
+                                $ 690
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!--Card-3-->
+            <div class="card col-12 col-md-6 p-3 col-lg-4 last-child">
+                <div class="card-wrapper">
+                    <div class="card-img">
+                        <img src="../assets/images/product1.jpg" alt="ShopnBold">
+                    </div>
+                    <div class="card-box">
+                        <h4 class="card-title mbr-fonts-style display-5">
+                            Watch Srong
+                        </h4>
+                        <p class="mbr-text mbr-fonts-style display-7">
+                            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab accusantium dolores doloribus
+                            eligendi eum illo placeat quis repellendus sequi tempore!
+                        </p>
+                        <!--Btn-->
+                        <div class="mbr-section-btn align-left">
+                            <a href="/" class="btn btn-warning-outline display-4">
+                                $ 990
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!--Card-4-->
+            
+        </div>
+    </div>
+</section>
+
+<section class="features18 popup-btn-cards cid-sodthYTl5s" id="features18-1o">
+
+    
+
+    
+    <div class="container">
+        <h2 class="mbr-section-title pb-3 align-center mbr-fonts-style display-2">
+            From our Fashion Blog</h2>
+        
+        <div class="media-container-row pt-5 ">
+            <div class="card p-3 col-12 col-md-6 col-lg-4">
+                <div class="card-wrapper ">
+                    <div class="card-img">
+                        <div class="mbr-overlay"></div>
+                        <div class="mbr-section-btn text-center">
+                            <a href="/" class="btn btn-primary display-4">Learn More</a>
+                        </div>
+                        <img src="../assets/images/background1.jpg" alt="ShopnBold">
+                    </div>
+                    <div class="card-box">
+                        <h4 class="card-title mbr-fonts-style display-7">
+                            No Coding
+                        </h4>
+                        <p class="mbr-text mbr-fonts-style align-left display-7">
+                            Mobirise is an easy website builder - just drop site elements to your page, add content and style it to look the way you like.
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="card p-3 col-12 col-md-6 col-lg-4">
+                <div class="card-wrapper">
+                    <div class="card-img">
+                        <div class="mbr-overlay"></div>
+                        <div class="mbr-section-btn text-center">
+                            <a href="/" class="btn btn-primary display-4">Learn More</a>
+                        </div>
+                        <img src="../assets/images/background2.jpg" alt="ShopnBold">
+                    </div>
+                    <div class="card-box">
+                        <h4 class="card-title mbr-fonts-style display-7">
+                            Mobile Friendly
+                        </h4>
+                        <p class="mbr-text mbr-fonts-style display-7">
+                           All sites you make with Mobirise are mobile-friendly. You don't have to create a special mobile version of your site.
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="card p-3 col-12 col-md-6 col-lg-4">
+                <div class="card-wrapper">
+                    <div class="card-img">
+                        <div class="mbr-overlay"></div>
+                        <div class="mbr-section-btn text-center">
+                            <a href="/" class="btn btn-primary display-4">Learn More</a>
+                        </div>
+                        <img src="../assets/images/background3.jpg" alt="ShopnBold">
+                    </div>
+                    <div class="card-box">
+                        <h4 class="card-title mbr-fonts-style display-7">
+                            Unique Styles
+                        </h4>
+                        <p class="mbr-text mbr-fonts-style display-7">
+                            Mobirise offers many site blocks in several themes, and though these blocks are pre-made, they are flexible.
+                        </p>
+                    </div>
+                </div>
+            </div>
+
             
         </div>
     </div>

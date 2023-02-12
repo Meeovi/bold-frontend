@@ -1,69 +1,27 @@
 <template>
     <div class="contentSection">
-        <section class="step3 cid-tuuCRUQAEW" id="step3-1q">
+        <section class="testimonials3 cid-tuyKrCJaJv" id="testimonials3-1w">
 
     
 
     
-    
+
 <div class="container">
-    <h2 class="mbr-section-title pb-3 mbr-fonts-style align-center display-2">
-        Career Opportunities</h2>
-    
     <div class="media-container-row">
-        <div class="media-block" style="width: 49%;">
-            <div class="mbr-figure">
-                <img src="../assets/images/background6.jpg">
-            </div>
+        <div class="media-content px-3 align-self-center mbr-white py-2">
+            <p class="mbr-text testimonial-text mbr-fonts-style display-7">
+               It's really very amazing app that makes me finish html page in 3 minutes that's usually takes more than 1 hours at least from me if i did it from scratch
+            </p>
+            <p class="mbr-author-name pt-4 mb-2 mbr-fonts-style display-7">
+               Julie C.
+            </p>
+            <p class="mbr-author-desc mbr-fonts-style display-7">
+               INTERFACE DESIGNER
+            </p>
         </div>
-        <div class="step-container">
-            <div class="card separline pb-4">
-                <div class="step-element d-flex">
-                    <div class="step-wrapper pr-3">
-                        <div class="step d-flex align-items-center justify-content-center">
-                            1
-                        </div>
-                    </div>          
-                    <div class="step-text-content">
-                        <h4 class="mbr-step-title pb-3 mbr-fonts-style display-5">Specification
-                        </h4>
-                        <p class="mbr-step-text mbr-fonts-style display-7">
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium.
-                        </p>
-                    </div>
-                </div>
-            </div>
 
-            <div class="card separline pb-4">
-                <div class="step-element d-flex">
-                    <div class="step-wrapper pr-3">
-                        <div class="step d-flex align-items-center justify-content-center">
-                            2
-                        </div>
-                    </div>          
-                    <div class="step-text-content">
-                        <h4 class="mbr-step-title pb-3 mbr-fonts-style display-5">Project Planning</h4>
-                        <p class="mbr-step-text mbr-fonts-style display-7">
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium.</p>
-                    </div>
-                </div>
-            </div>
-
-            <div class="card">
-                <div class="step-element d-flex">
-                    <div class="step-wrapper pr-3">
-                        <div class="step d-flex align-items-center justify-content-center">
-                            3
-                        </div>
-                    </div>          
-                    <div class="step-text-content">
-                        <h4 class="mbr-step-title pb-3 mbr-fonts-style display-5">Deployment
-                        </h4>
-                        <p class="mbr-step-text mbr-fonts-style display-7">
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium.</p>
-                    </div>
-                </div>
-            </div>
+        <div class="mbr-figure pl-lg-5" style="width: 200%;">
+          <img src="../assets/images/mbr-1162x555.jpg" alt="">
         </div>
     </div>
 </div>

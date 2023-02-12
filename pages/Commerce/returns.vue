@@ -24,7 +24,7 @@
                             <div class="col-12 col-md-2">
                                 <!--Image-->
                                 <div class="mbr-figure">
-                                    <img src="assets/images/product1.jpg" alt="ShopnBold">
+                                    <img src="../assets/images/product1.jpg" alt="ShopnBold">
                                 </div>
                             </div>
                             <div class="col-12 col-md-10">
@@ -56,7 +56,7 @@
                             <div class="col-12 col-md-2">
                                 <!--Image-->
                                 <div class="mbr-figure">
-                                    <img src="assets/images/product1.jpg" alt="ShopnBold">
+                                    <img src="../assets/images/product1.jpg" alt="ShopnBold">
                                 </div>
                             </div>
                             <div class="col-12 col-md-10">
@@ -88,7 +88,7 @@
                             <div class="col-12 col-md-2">
                                 <!--Image-->
                                 <div class="mbr-figure">
-                                    <img src="assets/images/product1.jpg" alt="ShopnBold">
+                                    <img src="../assets/images/product1.jpg" alt="ShopnBold">
                                 </div>
                             </div>
                             <div class="col-12 col-md-10">

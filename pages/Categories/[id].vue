@@ -1,6 +1,6 @@
 <template>
     <div>
-        <section class="mbr-section content5 cid-sobHlHrKxk mbr-parallax-background" id="content5-1o">
+        <section class="mbr-section content5 cid-soduRoI6iR mbr-parallax-background" id="content5-1q">
 
     
 
@@ -22,7 +22,7 @@
 </div>
 </section>
 
-<section class="services4 cid-sobGKbCXrl" id="services4-1n">
+<section class="services4 cid-sodwKFVqri" id="services4-1u">
 <!---->
 
 <!---->
@@ -40,7 +40,7 @@
                             <div class="wrapper">
                                 <!--Image-->
                                 <div class="mbr-figure" style="width: 100%;">
-                                    <img src="../../assets/images/product1.jpg" alt="ShopnBold">
+                                    <img src="../assets/images/product1.jpg" alt="ShopnBold">
                                 </div>
                             </div>
                         </div>
@@ -83,7 +83,7 @@
 </div>
 </section>
 
-<section class="services1 cid-sobGFVIUfm" id="services1-1k">
+<section class="services1 cid-soduSWFQcO" id="services1-1r">
 <!---->
 
 <!---->
@@ -101,7 +101,7 @@
         <div class="card col-12 col-md-6 p-3 col-lg-4">
             <div class="card-wrapper">
                 <div class="card-img">
-                    <img src="../../assets/images/product1.jpg" alt="ShopnBold">
+                    <img src="../assets/images/product1.jpg" alt="ShopnBold">
                 </div>
                 <div class="card-box">
                     <h4 class="card-title mbr-fonts-style display-5">
@@ -124,7 +124,7 @@
         <div class="card col-12 col-md-6 p-3 col-lg-4">
             <div class="card-wrapper">
                 <div class="card-img">
-                    <img src="../../assets/images/product1.jpg" alt="ShopnBold">
+                    <img src="../assets/images/product1.jpg" alt="ShopnBold">
                 </div>
                 <div class="card-box">
                     <h4 class="card-title mbr-fonts-style display-5">
@@ -147,7 +147,7 @@
         <div class="card col-12 col-md-6 p-3 col-lg-4 last-child">
             <div class="card-wrapper">
                 <div class="card-img">
-                    <img src="../../assets/images/product1.jpg" alt="ShopnBold">
+                    <img src="../assets/images/product1.jpg" alt="ShopnBold">
                 </div>
                 <div class="card-box">
                     <h4 class="card-title mbr-fonts-style display-5">
@@ -172,7 +172,7 @@
 </div>
 </section>
 
-<section class="services1 cid-sobGGg2DLI" id="services1-1l">
+<section class="services1 cid-sodvqAsFHt" id="services1-1t">
 <!---->
 
 <!---->
@@ -183,7 +183,7 @@
     <div class="row justify-content-center">
         <!--Titles-->
         <div class="title pb-5 col-12">
-            <h2 class="align-left pb-3 mbr-fonts-style display-5">
+            <h2 class="align-left pb-3 mbr-fonts-style display-2">
                 From our Shop</h2>
             
         </div>
@@ -191,7 +191,7 @@
         <div class="card col-12 col-md-6 p-3 col-lg-4">
             <div class="card-wrapper">
                 <div class="card-img">
-                    <img src="../../assets/images/product1.jpg" alt="ShopnBold">
+                    <img src="../assets/images/product1.jpg" alt="ShopnBold">
                 </div>
                 <div class="card-box">
                     <h4 class="card-title mbr-fonts-style display-5">
@@ -214,7 +214,7 @@
         <div class="card col-12 col-md-6 p-3 col-lg-4">
             <div class="card-wrapper">
                 <div class="card-img">
-                    <img src="../../assets/images/product1.jpg" alt="ShopnBold">
+                    <img src="../assets/images/product1.jpg" alt="ShopnBold">
                 </div>
                 <div class="card-box">
                     <h4 class="card-title mbr-fonts-style display-5">
@@ -237,7 +237,7 @@
         <div class="card col-12 col-md-6 p-3 col-lg-4 last-child">
             <div class="card-wrapper">
                 <div class="card-img">
-                    <img src="../../assets/images/product1.jpg" alt="ShopnBold">
+                    <img src="../assets/images/product1.jpg" alt="ShopnBold">
                 </div>
                 <div class="card-box">
                     <h4 class="card-title mbr-fonts-style display-5">
@@ -262,7 +262,7 @@
 </div>
 </section>
 
-<section class="features18 popup-btn-cards cid-sobGIJUqYR" id="features18-1m">
+<section class="features18 popup-btn-cards cid-sodvp3tKKP" id="features18-1s">
 
 
 
@@ -279,7 +279,7 @@
                     <div class="mbr-section-btn text-center">
                         <a href="/" class="btn btn-primary display-4">Learn More</a>
                     </div>
-                    <img src="../../assets/images/background1.jpg" alt="ShopnBold">
+                    <img src="../assets/images/background1.jpg" alt="ShopnBold">
                 </div>
                 <div class="card-box">
                     <h4 class="card-title mbr-fonts-style display-7">
@@ -298,7 +298,7 @@
                     <div class="mbr-section-btn text-center">
                         <a href="/" class="btn btn-primary display-4">Learn More</a>
                     </div>
-                    <img src="../../assets/images/background2.jpg" alt="ShopnBold">
+                    <img src="../assets/images/background2.jpg" alt="ShopnBold">
                 </div>
                 <div class="card-box">
                     <h4 class="card-title mbr-fonts-style display-7">
@@ -318,7 +318,7 @@
                     <div class="mbr-section-btn text-center">
                         <a href="/" class="btn btn-primary display-4">Learn More</a>
                     </div>
-                    <img src="../../assets/images/background3.jpg" alt="ShopnBold">
+                    <img src="../assets/images/background3.jpg" alt="ShopnBold">
                 </div>
                 <div class="card-box">
                     <h4 class="card-title mbr-fonts-style display-7">

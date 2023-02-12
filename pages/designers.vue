@@ -1,6 +1,6 @@
 <template>
     <div>
-        <section class="mbr-section content5 cid-sahLqmbQ2K" id="content5-a">
+        <section class="mbr-section content5 cid-sodqiX76X3 mbr-parallax-background" id="content5-1d">
 
     
 
@@ -11,9 +11,8 @@
     <div class="media-container-row">
         <div class="title col-12 col-md-8">
             <h2 class="align-center mbr-bold mbr-white pb-3 mbr-fonts-style display-1">
-                Designer</h2>
-            <h3 class="mbr-section-subtitle align-center mbr-light mbr-white pb-3 mbr-fonts-style display-5">
-                Three easy steps to designing your own outfit</h3>
+                Designers</h2>
+            
             
             
         </div>
@@ -21,84 +20,13 @@
 </div>
 </section>
 
-<section class="step2 cid-sahLvoNtsi" id="step2-b">
-
-
-
-
-
-<div class="container">
-    <h2 class="mbr-section-title pb-3 mbr-fonts-style align-center display-2">
-        Get Started</h2>
-    
-    <div class="step-container row justify-content-center">
-        <div class="card col-12 col-md-4 separline">
-            <div class="step-element">
-                <div class="step-wrapper pb-3">
-                    <h3 class="step d-flex align-items-center justify-content-center m-auto">
-                        1
-                    </h3>
-                </div>          
-                <div class="step-text-content align-center">
-                    <h4 class="mbr-step-title pb-3 mbr-fonts-style display-5">Specification
-                    </h4>
-                    <p class="mbr-step-text mbr-fonts-style display-7">
-                        Pick out your outfit, mix and match, sketch up your style.</p>
-                </div>
-            </div>
-        </div>
-
-        <div class="card col-12 separline col-md-4">
-            <div class="step-element">
-                <div class="step-wrapper pb-3">
-                    <h3 class="step d-flex align-items-center justify-content-center m-auto">
-                        2
-                    </h3>
-                </div>          
-                <div class="step-text-content align-center">
-                    <h4 class="mbr-step-title pb-3 mbr-fonts-style display-5">Design Planning</h4>
-                    <p class="mbr-step-text mbr-fonts-style display-7">
-                        Then use our built in canvas to put pieces together using virtual models.</p>
-                </div>
-            </div>
-        </div>
-
-        <div class="card col-md-4 col-12 separline last-child">
-            <div class="step-element">
-                <div class="step-wrapper pb-3">
-                    <h3 class="step d-flex align-items-center justify-content-center m-auto">
-                        3
-                    </h3>
-                </div>          
-                <div class="step-text-content align-center">
-                    <h4 class="mbr-step-title pb-3 mbr-fonts-style display-5">Shop</h4>
-                    <p class="mbr-step-text mbr-fonts-style display-7">
-                        Once you are done then shop the pieces and wear that new style.</p>
-                </div>
-            </div>
-        </div>
-
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-    </div>
-</div>
-</section>
-
-<section class="team1 cid-sobz5lQoco" id="team1-17">
+<section class="team1 cid-sodqzjLyBk" id="team1-1e">
 
 
 
 <div class="container align-center">
-    <h2 class="pb-3 mbr-fonts-style mbr-section-title display-2">Some Designers</h2>
+    <h2 class="pb-3 mbr-fonts-style mbr-section-title display-2">
+        Designers from the Shop</h2>
     
     <div class="row media-row">
         
@@ -205,196 +133,15 @@
 </div>
 </section>
 
-<section class="services1 cid-sobzm19SVk" id="services1-18">
-<!---->
-
-<!---->
-<!--Overlay-->
-
-<!--Container-->
-<div class="container">
-    <div class="row justify-content-center">
-        <!--Titles-->
-        <div class="title pb-5 col-12">
-            <h2 class="align-left pb-3 mbr-fonts-style display-5">
-                A few of their designs</h2>
-            
-        </div>
-        <!--Card-1-->
-        <div class="card col-12 col-md-6 p-3 col-lg-4">
-            <div class="card-wrapper">
-                <div class="card-img">
-                    <img src="../assets/images/product1.jpg" alt="ShopnBold">
-                </div>
-                <div class="card-box">
-                    <h4 class="card-title mbr-fonts-style display-5">
-                        Watch Star
-                    </h4>
-                    <p class="mbr-text mbr-fonts-style display-7">
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab accusantium dolores doloribus
-                        eligendi eum illo placeat quis repellendus sequi tempore!
-                    </p>
-                    <!--Btn-->
-                    <div class="mbr-section-btn align-left">
-                        <a href="/" class="btn btn-warning-outline display-4">
-                            $ 790
-                        </a>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!--Card-2-->
-        <div class="card col-12 col-md-6 p-3 col-lg-4">
-            <div class="card-wrapper">
-                <div class="card-img">
-                    <img src="../assets/images/product1.jpg" alt="ShopnBold">
-                </div>
-                <div class="card-box">
-                    <h4 class="card-title mbr-fonts-style display-5">
-                        Watch Special
-                    </h4>
-                    <p class="mbr-text mbr-fonts-style display-7">
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab accusantium dolores doloribus
-                        eligendi eum illo placeat quis repellendus sequi tempore!
-                    </p>
-                    <!--Btn-->
-                    <div class="mbr-section-btn align-left">
-                        <a href="/" class="btn btn-warning-outline display-4">
-                            $ 690
-                        </a>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!--Card-3-->
-        <div class="card col-12 col-md-6 p-3 col-lg-4 last-child">
-            <div class="card-wrapper">
-                <div class="card-img">
-                    <img src="../assets/images/product1.jpg" alt="ShopnBold">
-                </div>
-                <div class="card-box">
-                    <h4 class="card-title mbr-fonts-style display-5">
-                        Watch Srong
-                    </h4>
-                    <p class="mbr-text mbr-fonts-style display-7">
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab accusantium dolores doloribus
-                        eligendi eum illo placeat quis repellendus sequi tempore!
-                    </p>
-                    <!--Btn-->
-                    <div class="mbr-section-btn align-left">
-                        <a href="/" class="btn btn-warning-outline display-4">
-                            $ 990
-                        </a>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!--Card-4-->
-        
-    </div>
-</div>
-</section>
-
-<section class="services1 cid-sobzmoZqI3" id="services1-19">
-<!---->
-
-<!---->
-<!--Overlay-->
-
-<!--Container-->
-<div class="container">
-    <div class="row justify-content-center">
-        <!--Titles-->
-        <div class="title pb-5 col-12">
-            <h2 class="align-left pb-3 mbr-fonts-style display-5">
-                Products from our store</h2>
-            
-        </div>
-        <!--Card-1-->
-        <div class="card col-12 col-md-6 p-3 col-lg-4">
-            <div class="card-wrapper">
-                <div class="card-img">
-                    <img src="../assets/images/product1.jpg" alt="ShopnBold">
-                </div>
-                <div class="card-box">
-                    <h4 class="card-title mbr-fonts-style display-5">
-                        Watch Star
-                    </h4>
-                    <p class="mbr-text mbr-fonts-style display-7">
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab accusantium dolores doloribus
-                        eligendi eum illo placeat quis repellendus sequi tempore!
-                    </p>
-                    <!--Btn-->
-                    <div class="mbr-section-btn align-left">
-                        <a href="/" class="btn btn-warning-outline display-4">
-                            $ 790
-                        </a>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!--Card-2-->
-        <div class="card col-12 col-md-6 p-3 col-lg-4">
-            <div class="card-wrapper">
-                <div class="card-img">
-                    <img src="../assets/images/product1.jpg" alt="ShopnBold">
-                </div>
-                <div class="card-box">
-                    <h4 class="card-title mbr-fonts-style display-5">
-                        Watch Special
-                    </h4>
-                    <p class="mbr-text mbr-fonts-style display-7">
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab accusantium dolores doloribus
-                        eligendi eum illo placeat quis repellendus sequi tempore!
-                    </p>
-                    <!--Btn-->
-                    <div class="mbr-section-btn align-left">
-                        <a href="/" class="btn btn-warning-outline display-4">
-                            $ 690
-                        </a>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!--Card-3-->
-        <div class="card col-12 col-md-6 p-3 col-lg-4 last-child">
-            <div class="card-wrapper">
-                <div class="card-img">
-                    <img src="../assets/images/product1.jpg" alt="ShopnBold">
-                </div>
-                <div class="card-box">
-                    <h4 class="card-title mbr-fonts-style display-5">
-                        Watch Srong
-                    </h4>
-                    <p class="mbr-text mbr-fonts-style display-7">
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab accusantium dolores doloribus
-                        eligendi eum illo placeat quis repellendus sequi tempore!
-                    </p>
-                    <!--Btn-->
-                    <div class="mbr-section-btn align-left">
-                        <a href="/" class="btn btn-warning-outline display-4">
-                            $ 990
-                        </a>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!--Card-4-->
-        
-    </div>
-</div>
-</section>
-
-<section class="features18 popup-btn-cards cid-sobzKu6zq2" id="features18-1a">
+<section class="features18 popup-btn-cards cid-sodqg4Av85" id="features18-1c">
 
 
 
 
 <div class="container">
     <h2 class="mbr-section-title pb-3 align-center mbr-fonts-style display-2">
-        The Fashion Blog</h2>
-    <h3 class="mbr-section-subtitle display-5 align-center mbr-fonts-style mbr-light">
-        Blog posts from other fashionistas</h3>
+        Posts from our Fashion Blog</h2>
+    
     <div class="media-container-row pt-5 ">
         <div class="card p-3 col-12 col-md-6 col-lg-4">
             <div class="card-wrapper ">
@@ -455,6 +202,186 @@
             </div>
         </div>
 
+        
+    </div>
+</div>
+</section>
+
+<section class="services1 cid-sodqdK25sp" id="services1-1a">
+<!---->
+
+<!---->
+<!--Overlay-->
+
+<!--Container-->
+<div class="container">
+    <div class="row justify-content-center">
+        <!--Titles-->
+        <div class="title pb-5 col-12">
+            <h2 class="align-left pb-3 mbr-fonts-style display-5">
+                Products from the Designers</h2>
+            
+        </div>
+        <!--Card-1-->
+        <div class="card col-12 col-md-6 p-3 col-lg-4">
+            <div class="card-wrapper">
+                <div class="card-img">
+                    <img src="../assets/images/product1.jpg" alt="ShopnBold">
+                </div>
+                <div class="card-box">
+                    <h4 class="card-title mbr-fonts-style display-5">
+                        Watch Star
+                    </h4>
+                    <p class="mbr-text mbr-fonts-style display-7">
+                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab accusantium dolores doloribus
+                        eligendi eum illo placeat quis repellendus sequi tempore!
+                    </p>
+                    <!--Btn-->
+                    <div class="mbr-section-btn align-left">
+                        <a href="/" class="btn btn-warning-outline display-4">
+                            $ 790
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!--Card-2-->
+        <div class="card col-12 col-md-6 p-3 col-lg-4">
+            <div class="card-wrapper">
+                <div class="card-img">
+                    <img src="../assets/images/product1.jpg" alt="ShopnBold">
+                </div>
+                <div class="card-box">
+                    <h4 class="card-title mbr-fonts-style display-5">
+                        Watch Special
+                    </h4>
+                    <p class="mbr-text mbr-fonts-style display-7">
+                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab accusantium dolores doloribus
+                        eligendi eum illo placeat quis repellendus sequi tempore!
+                    </p>
+                    <!--Btn-->
+                    <div class="mbr-section-btn align-left">
+                        <a href="/" class="btn btn-warning-outline display-4">
+                            $ 690
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!--Card-3-->
+        <div class="card col-12 col-md-6 p-3 col-lg-4 last-child">
+            <div class="card-wrapper">
+                <div class="card-img">
+                    <img src="../assets/images/product1.jpg" alt="ShopnBold">
+                </div>
+                <div class="card-box">
+                    <h4 class="card-title mbr-fonts-style display-5">
+                        Watch Srong
+                    </h4>
+                    <p class="mbr-text mbr-fonts-style display-7">
+                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab accusantium dolores doloribus
+                        eligendi eum illo placeat quis repellendus sequi tempore!
+                    </p>
+                    <!--Btn-->
+                    <div class="mbr-section-btn align-left">
+                        <a href="/" class="btn btn-warning-outline display-4">
+                            $ 990
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!--Card-4-->
+        
+    </div>
+</div>
+</section>
+
+<section class="services1 cid-sodqebHca3" id="services1-1b">
+<!---->
+
+<!---->
+<!--Overlay-->
+
+<!--Container-->
+<div class="container">
+    <div class="row justify-content-center">
+        <!--Titles-->
+        <div class="title pb-5 col-12">
+            <h2 class="align-left pb-3 mbr-fonts-style display-5">
+                From our Shop</h2>
+            
+        </div>
+        <!--Card-1-->
+        <div class="card col-12 col-md-6 p-3 col-lg-4">
+            <div class="card-wrapper">
+                <div class="card-img">
+                    <img src="../assets/images/product1.jpg" alt="ShopnBold">
+                </div>
+                <div class="card-box">
+                    <h4 class="card-title mbr-fonts-style display-5">
+                        Watch Star
+                    </h4>
+                    <p class="mbr-text mbr-fonts-style display-7">
+                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab accusantium dolores doloribus
+                        eligendi eum illo placeat quis repellendus sequi tempore!
+                    </p>
+                    <!--Btn-->
+                    <div class="mbr-section-btn align-left">
+                        <a href="/" class="btn btn-warning-outline display-4">
+                            $ 790
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!--Card-2-->
+        <div class="card col-12 col-md-6 p-3 col-lg-4">
+            <div class="card-wrapper">
+                <div class="card-img">
+                    <img src="../assets/images/product1.jpg" alt="ShopnBold">
+                </div>
+                <div class="card-box">
+                    <h4 class="card-title mbr-fonts-style display-5">
+                        Watch Special
+                    </h4>
+                    <p class="mbr-text mbr-fonts-style display-7">
+                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab accusantium dolores doloribus
+                        eligendi eum illo placeat quis repellendus sequi tempore!
+                    </p>
+                    <!--Btn-->
+                    <div class="mbr-section-btn align-left">
+                        <a href="/" class="btn btn-warning-outline display-4">
+                            $ 690
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!--Card-3-->
+        <div class="card col-12 col-md-6 p-3 col-lg-4 last-child">
+            <div class="card-wrapper">
+                <div class="card-img">
+                    <img src="../assets/images/product1.jpg" alt="ShopnBold">
+                </div>
+                <div class="card-box">
+                    <h4 class="card-title mbr-fonts-style display-5">
+                        Watch Srong
+                    </h4>
+                    <p class="mbr-text mbr-fonts-style display-7">
+                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab accusantium dolores doloribus
+                        eligendi eum illo placeat quis repellendus sequi tempore!
+                    </p>
+                    <!--Btn-->
+                    <div class="mbr-section-btn align-left">
+                        <a href="/" class="btn btn-warning-outline display-4">
+                            $ 990
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!--Card-4-->
         
     </div>
 </div>

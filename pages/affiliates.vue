@@ -1,72 +1,69 @@
 <template>
     <div class="contentSection">
-        <section class="step3 cid-tuuDiZmH8X" id="step3-1r">
+        <section class="features11 cid-tuyL5wbnQP" id="features11-1x">
 
     
 
     
-    
-<div class="container">
-    <h2 class="mbr-section-title pb-3 mbr-fonts-style align-center display-2">
-        Affiliates</h2>
-    
-    <div class="media-container-row">
-        <div class="media-block" style="width: 49%;">
-            <div class="mbr-figure">
-                <img src="../assets/images/background6.jpg">
+
+<div class="container">   
+    <div class="col-md-12">
+        <div class="media-container-row">
+            <div class="mbr-figure m-auto" style="width: 50%;">
+                <img src="../assets/images/background9.jpg" alt="ShopnBold" title="">
             </div>
-        </div>
-        <div class="step-container">
-            <div class="card separline pb-4">
-                <div class="step-element d-flex">
-                    <div class="step-wrapper pr-3">
-                        <div class="step d-flex align-items-center justify-content-center">
-                            1
-                        </div>
-                    </div>          
-                    <div class="step-text-content">
-                        <h4 class="mbr-step-title pb-3 mbr-fonts-style display-5">Specification
-                        </h4>
-                        <p class="mbr-step-text mbr-fonts-style display-7">
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium.
-                        </p>
-                    </div>
+            <div class=" align-left aside-content">
+                <h2 class="mbr-title pt-2 mbr-fonts-style display-2">
+                    Affiliates</h2>
+                <div class="mbr-section-text">
+                    <p class="mbr-text mb-5 pt-3 mbr-light mbr-fonts-style display-5">
+                    Click any text or icon to edit or style it. Use the block parameters to hide/show text or icons and change media size or position.
+                    </p>
                 </div>
-            </div>
 
-            <div class="card separline pb-4">
-                <div class="step-element d-flex">
-                    <div class="step-wrapper pr-3">
-                        <div class="step d-flex align-items-center justify-content-center">
-                            2
+                <div class="block-content">
+                    <div class="card p-3 pr-3">
+                        <div class="media">
+                            <div class=" align-self-center card-img pb-3">
+                                <span class="mbri-extension mbr-iconfont"></span>
+                            </div>     
+                            <div class="media-body">
+                                <h4 class="card-title mbr-fonts-style display-7">
+                                    Over 400 Amazing Blocks
+                                </h4>
+                            </div>
+                        </div>                
+
+                        <div class="card-box">
+                            <p class="block-text mbr-fonts-style display-7">
+                               Mobirise offers several themes that include sliders, galleries, article blocks, counters, accordions, video, animated text, live filtered tables, shop, contact forms, lightbox, testimonials, timelines, google map, progress bars and more. 
+                            </p>
                         </div>
-                    </div>          
-                    <div class="step-text-content">
-                        <h4 class="mbr-step-title pb-3 mbr-fonts-style display-5">Project Planning</h4>
-                        <p class="mbr-step-text mbr-fonts-style display-7">
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium.</p>
                     </div>
-                </div>
-            </div>
 
-            <div class="card">
-                <div class="step-element d-flex">
-                    <div class="step-wrapper pr-3">
-                        <div class="step d-flex align-items-center justify-content-center">
-                            3
+                    <div class="card p-3 pr-3">
+                        <div class="media">
+                            <div class="align-self-center card-img pb-3">
+                                <span class="mbri-drag-n-drop2 mbr-iconfont"></span>
+                            </div>     
+                            <div class="media-body">
+                                <h4 class="card-title mbr-fonts-style display-7">
+                                    Easy and Simple to Use
+                                </h4>
+                            </div>
+                        </div>                
+
+                        <div class="card-box">
+                            <p class="block-text mbr-fonts-style display-7">
+                                Cut down the development time with drag-and-drop website builder. Drop the blocks into the page, edit content inline and publish - no technical skills required.
+                            </p>
                         </div>
-                    </div>          
-                    <div class="step-text-content">
-                        <h4 class="mbr-step-title pb-3 mbr-fonts-style display-5">Deployment
-                        </h4>
-                        <p class="mbr-step-text mbr-fonts-style display-7">
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium.</p>
                     </div>
                 </div>
             </div>
         </div>
-    </div>
-</div>
+    </div> 
+</div>          
 </section>
     </div>
 </template>

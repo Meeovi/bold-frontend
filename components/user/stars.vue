@@ -1,39 +1,61 @@
 <template>
     <div>
-        <div class="container">
-            <div class="row justify-content-center">
-                <!--Titles-->
-                <div class="title pb-5 col-12">
-                    <h2 class="align-left pb-3 mbr-fonts-style display-5">
-                        My Stars</h2>
-
-                </div>
-                <!--Card-1-->
-                <div class="card col-12 col-md-6 p-3 col-lg-4">
-                    <div class="card-wrapper">
-                        <div class="card-img">
-                            <img src="../../assets/images/product1.jpg" alt="ShopnBold">
-                        </div>
-                        <div class="card-box">
-                            <h4 class="card-title mbr-fonts-style display-5">
-                                Watch Star
-                            </h4>
-                            <p class="mbr-text mbr-fonts-style display-7">
-                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab accusantium dolores
-                                doloribus
-                                eligendi eum illo placeat quis repellendus sequi tempore!
-                            </p>
-                            <!--Btn-->
-                            <div class="mbr-section-btn align-left">
-                                <a href="/" class="btn btn-warning-outline display-4">
-                                    $ 790
-                                </a>
+        <section class="services4 cid-tuyLf2U9a1" id="services4-1y">
+    <!---->
+    
+    <!---->
+    <!--Overlay-->
+    
+    <!--Container-->
+    <div class="container">
+        <div class="row">
+            <!--Card-1-->
+            <div class="card p-3 col-12">
+                <div class="card-wrapper media-container-row media-container-row">
+                    <div class="card-box">
+                        <div class="row">
+                            <div class="col-12 col-md-12 col-lg-4">
+                                <div class="wrapper">
+                                    <!--Image-->
+                                    <div class="mbr-figure" style="width: 100%;">
+                                        <img src="../../assets/images/product1.jpg" alt="ShopnBold">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-12 col-md-7 col-lg-4">
+                                <div class="wrapper col-left">
+                                    <!--Title-->
+                                    <h4 class="card-title mbr-fonts-style display-5">
+                                        Watch Special
+                                    </h4>
+                                    <!--Subtitle-->
+                                    <p class="mbr-text mbr-fonts-style pt-3 display-7">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci consectetur
+                                        tempora totam voluptas voluptatem voluptatibus.
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="col-12 col-md-5 col-lg-4">
+                                <div class="wrapper border_wrapper">
+                                    <!--Cost-->
+                                    <p class="mbr-text mbr-fonts-style col-right mbr-black align-center display-2">
+                                        $990
+                                    </p>
+                                    <!--Btn-->
+                                    <div class="mbr-section-btn col-right align-center">
+                                        <a href="/" class="btn btn-warning-outline m-0 display-4">
+                                            Buy Now
+                                        </a>
+                                    </div>
+                                </div>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
+    </div>
+</section>
     </div>
 </template>
 

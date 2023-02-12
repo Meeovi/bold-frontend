@@ -1,23 +1,22 @@
 <template>
     <div>
-        <section class="mbr-section content4 cid-tuuElmtkos" id="content4-1u">
-
-    
-
-<div class="container">
-    <div class="media-container-row">
-        <div class="title col-12 col-md-8">
-            <h2 class="align-center pb-3 mbr-fonts-style display-2">
-                Privacy Policies
-            </h2>
-            <h3 class="mbr-section-subtitle align-center mbr-light mbr-fonts-style display-5">
-                Shape your future web project with sharp design and refine coded functions.
-            </h3>
-            
-        </div>
+        <section class="mbr-section article content10 cid-rp3OJGc3PS" id="content10-9">
+            <div class="container">
+                <div class="inner-container">
+                    <h5>Privacy Policy</h5>
+                    <hr class="line">
+                    <div class="align-center mbr-fonts-style">
+                        Mobirise is one of the easiest website development tools available today. It also gives you the
+                        freedom to develop as many websites as you like given the fact that it is a desktop app.
+                    </div>
+                    <hr class="line">
+                </div>
+            </div>
+        </section>
     </div>
-</div>
-</section>
+</template>
+
+
     </div>
 </template>
 

@@ -1,73 +1,85 @@
 <template>
     <div>
-        <section class="features11 cid-sobFj2gIUx" id="features11-1b">
+        <section class="testimonials2 cid-sodrNKywSs" id="testimonials2-1f">
 
     
 
     
 
-<div class="container">   
-    <div class="col-md-12">
-        <div class="media-container-row">
-            <div class="mbr-figure m-auto" style="width: 50%;">
-                <img src="../../assets/images/background9.jpg" alt="ShopnBold" title="">
-            </div>
-            <div class=" align-left aside-content">
-                <h2 class="mbr-title pt-2 mbr-fonts-style display-2">
-                    Image with content
-                </h2>
-                <div class="mbr-section-text">
-                    <p class="mbr-text mb-5 pt-3 mbr-light mbr-fonts-style display-5">
-                    Click any text or icon to edit or style it. Use the block parameters to hide/show text or icons and change media size or position.
-                    </p>
-                </div>
+<div class="container">
+    <div class="media-container-row">
+        <div class="mbr-figure pr-lg-5" style="width: 130%;">
+          <img src="../assets/images/face1.jpg">
+        </div>
+        <div class="media-content px-3 align-self-center mbr-white py-2">
+                <p class="mbr-text testimonial-text mbr-fonts-style display-7">
+                   Loving the additions to the new version of Mobirise web dev app. It's a great, cleanly designed, user-friendly, not-bloated design program. So easy and a pleasure to use
+                </p>
+                <p class="mbr-author-name pt-4 mb-2 mbr-fonts-style display-7">
+                   David F.
+                </p>
+                <p class="mbr-author-desc mbr-fonts-style display-7">
+                   DEVELOPER
+                </p>
+        </div>
+    </div>
+</div>
+</section>
 
-                <div class="block-content">
-                    <div class="card p-3 pr-3">
-                        <div class="media">
-                            <div class=" align-self-center card-img pb-3">
-                                <span class="mbri-extension mbr-iconfont"></span>
-                            </div>     
-                            <div class="media-body">
-                                <h4 class="card-title mbr-fonts-style display-7">
-                                    Over 400 Amazing Blocks
-                                </h4>
-                            </div>
-                        </div>                
+<section class="mbr-section contacts2 cid-sodrQ4t2Uk" id="contacts2-1g">
+<!---->
 
-                        <div class="card-box">
-                            <p class="block-text mbr-fonts-style display-7">
-                               ShopnBold offers several themes that include sliders, galleries, article blocks, counters, accordions, video, animated text, live filtered tables, shop, contact forms, lightbox, testimonials, timelines, google map, progress bars and more. 
-                            </p>
-                        </div>
+<!---->
+<!--Overlay-->
+
+<!--Container-->
+<div class="container">
+    <div class="row">
+        <!--Titles-->
+        <div class="title col-12">
+            <h2 class="align-left mbr-fonts-style display-2">
+                Get in Touch</h2>
+            
+        </div>
+        <div class="col-12">
+            <div class="row justify-content-center">
+                <div class="col-12 col-md-4">
+                    <div class="b b-adress">
+                        <h5 class="align-left mbr-fonts-style m-0 display-5">
+                            Website:
+                        </h5>
+                        <p class="mbr-text align-left mbr-fonts-style display-7">
+                            350 5th Ave, New York, NY 10118, USA
+                        </p>
                     </div>
-
-                    <div class="card p-3 pr-3">
-                        <div class="media">
-                            <div class="align-self-center card-img pb-3">
-                                <span class="mbri-drag-n-drop2 mbr-iconfont"></span>
-                            </div>     
-                            <div class="media-body">
-                                <h4 class="card-title mbr-fonts-style display-7">
-                                    Easy and Simple to Use
-                                </h4>
-                            </div>
-                        </div>                
-
-                        <div class="card-box">
-                            <p class="block-text mbr-fonts-style display-7">
-                                Cut down the development time with drag-and-drop website builder. Drop the blocks into the page, edit content inline and publish - no technical skills required.
-                            </p>
-                        </div>
+                </div>
+                <div class="col-12 col-md-4">
+                    <div class="b b-phone">
+                        <h5 class="align-left mbr-fonts-style m-0 display-5">
+                            Contact:
+                        </h5>
+                        <p class="mbr-text align-left mbr-fonts-style display-7">
+                            +1 (0) 000 0000 001
+                        </p>
+                    </div>
+                </div>
+                <div class="col-12 col-md-4">
+                    <div class="b b-mail">
+                        <h5 class="align-left mbr-fonts-style m-0 display-5">
+                            Social:
+                        </h5>
+                        <p class="mbr-text align-left mbr-fonts-style display-7">
+                            youremail@mail.com
+                        </p>
                     </div>
                 </div>
             </div>
         </div>
-    </div> 
-</div>          
+    </div>
+</div>
 </section>
 
-<section class="services1 cid-sobFka3RIb" id="services1-1c">
+<section class="services1 cid-sodrTnlJXq" id="services1-1h">
 <!---->
 
 <!---->
@@ -78,7 +90,7 @@
     <div class="row justify-content-center">
         <!--Titles-->
         <div class="title pb-5 col-12">
-            <h2 class="align-left pb-3 mbr-fonts-style display-5">
+            <h2 class="align-left pb-3 mbr-fonts-style display-2">
                 From this Designer</h2>
             
         </div>
@@ -86,7 +98,7 @@
         <div class="card col-12 col-md-6 p-3 col-lg-4">
             <div class="card-wrapper">
                 <div class="card-img">
-                    <img src="../../assets/images/product1.jpg" alt="ShopnBold">
+                    <img src="../assets/images/product1.jpg" alt="ShopnBold">
                 </div>
                 <div class="card-box">
                     <h4 class="card-title mbr-fonts-style display-5">
@@ -109,7 +121,7 @@
         <div class="card col-12 col-md-6 p-3 col-lg-4">
             <div class="card-wrapper">
                 <div class="card-img">
-                    <img src="../../assets/images/product1.jpg" alt="ShopnBold">
+                    <img src="../assets/images/product1.jpg" alt="ShopnBold">
                 </div>
                 <div class="card-box">
                     <h4 class="card-title mbr-fonts-style display-5">
@@ -132,7 +144,7 @@
         <div class="card col-12 col-md-6 p-3 col-lg-4 last-child">
             <div class="card-wrapper">
                 <div class="card-img">
-                    <img src="../../assets/images/product1.jpg" alt="ShopnBold">
+                    <img src="../assets/images/product1.jpg" alt="ShopnBold">
                 </div>
                 <div class="card-box">
                     <h4 class="card-title mbr-fonts-style display-5">
@@ -157,7 +169,7 @@
 </div>
 </section>
 
-<section class="services1 cid-sobFkIPQyT" id="services1-1d">
+<section class="services1 cid-sodrUbNFqa" id="services1-1i">
 <!---->
 
 <!---->
@@ -168,7 +180,7 @@
     <div class="row justify-content-center">
         <!--Titles-->
         <div class="title pb-5 col-12">
-            <h2 class="align-left pb-3 mbr-fonts-style display-5">
+            <h2 class="align-left pb-3 mbr-fonts-style display-2">
                 From our Shop</h2>
             
         </div>
@@ -176,7 +188,7 @@
         <div class="card col-12 col-md-6 p-3 col-lg-4">
             <div class="card-wrapper">
                 <div class="card-img">
-                    <img src="../../assets/images/product1.jpg" alt="ShopnBold">
+                    <img src="../assets/images/product1.jpg" alt="ShopnBold">
                 </div>
                 <div class="card-box">
                     <h4 class="card-title mbr-fonts-style display-5">
@@ -199,7 +211,7 @@
         <div class="card col-12 col-md-6 p-3 col-lg-4">
             <div class="card-wrapper">
                 <div class="card-img">
-                    <img src="../../assets/images/product1.jpg" alt="ShopnBold">
+                    <img src="../assets/images/product1.jpg" alt="ShopnBold">
                 </div>
                 <div class="card-box">
                     <h4 class="card-title mbr-fonts-style display-5">
@@ -222,7 +234,7 @@
         <div class="card col-12 col-md-6 p-3 col-lg-4 last-child">
             <div class="card-wrapper">
                 <div class="card-img">
-                    <img src="../../assets/images/product1.jpg" alt="ShopnBold">
+                    <img src="../assets/images/product1.jpg" alt="ShopnBold">
                 </div>
                 <div class="card-box">
                     <h4 class="card-title mbr-fonts-style display-5">
@@ -247,14 +259,14 @@
 </div>
 </section>
 
-<section class="features18 popup-btn-cards cid-sobFrb6tmN" id="features18-1e">
+<section class="features18 popup-btn-cards cid-sodrV3Djmt" id="features18-1j">
 
 
 
 
 <div class="container">
     <h2 class="mbr-section-title pb-3 align-center mbr-fonts-style display-2">
-        Our Fashion Blog</h2>
+        Posts from Designer</h2>
     
     <div class="media-container-row pt-5 ">
         <div class="card p-3 col-12 col-md-6 col-lg-4">
@@ -264,14 +276,14 @@
                     <div class="mbr-section-btn text-center">
                         <a href="/" class="btn btn-primary display-4">Learn More</a>
                     </div>
-                    <img src="../../assets/images/background1.jpg" alt="ShopnBold">
+                    <img src="../assets/images/background1.jpg" alt="ShopnBold">
                 </div>
                 <div class="card-box">
                     <h4 class="card-title mbr-fonts-style display-7">
                         No Coding
                     </h4>
                     <p class="mbr-text mbr-fonts-style align-left display-7">
-                        ShopnBold is an easy website builder - just drop site elements to your page, add content and style it to look the way you like.
+                        Mobirise is an easy website builder - just drop site elements to your page, add content and style it to look the way you like.
                     </p>
                 </div>
             </div>
@@ -283,14 +295,14 @@
                     <div class="mbr-section-btn text-center">
                         <a href="/" class="btn btn-primary display-4">Learn More</a>
                     </div>
-                    <img src="../../assets/images/background2.jpg" alt="ShopnBold">
+                    <img src="../assets/images/background2.jpg" alt="ShopnBold">
                 </div>
                 <div class="card-box">
                     <h4 class="card-title mbr-fonts-style display-7">
                         Mobile Friendly
                     </h4>
                     <p class="mbr-text mbr-fonts-style display-7">
-                       All sites you make with ShopnBold are mobile-friendly. You don't have to create a special mobile version of your site.
+                       All sites you make with Mobirise are mobile-friendly. You don't have to create a special mobile version of your site.
                     </p>
                 </div>
             </div>
@@ -303,14 +315,14 @@
                     <div class="mbr-section-btn text-center">
                         <a href="/" class="btn btn-primary display-4">Learn More</a>
                     </div>
-                    <img src="../../assets/images/background3.jpg" alt="ShopnBold">
+                    <img src="../assets/images/background3.jpg" alt="ShopnBold">
                 </div>
                 <div class="card-box">
                     <h4 class="card-title mbr-fonts-style display-7">
                         Unique Styles
                     </h4>
                     <p class="mbr-text mbr-fonts-style display-7">
-                        ShopnBold offers many site blocks in several themes, and though these blocks are pre-made, they are flexible.
+                        Mobirise offers many site blocks in several themes, and though these blocks are pre-made, they are flexible.
                     </p>
                 </div>
             </div>
