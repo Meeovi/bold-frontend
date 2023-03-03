@@ -9,13 +9,13 @@
     <div class="row main align-items-center">
         <div class="col-md-6 image-element align-self-stretch">
             <div class="img-wrap" style="width: 80%; height: 80%;">
-                <img src="../../assets/images/mbr-1553x1553.jpg" alt="">
+                <img src="../../../assets/images/mbr-1553x1553.jpg" alt="">
             </div>
         </div>
         <div class="col-md-6 text-element">
             <div class="text-content">
                 <h2 class="mbr-title pt-2 mbr-fonts-style align-left mbr-white display-2">
-                    Subscriptions
+                    New Arrivals
                 </h2>
                 
                 <div class="mbr-section-text">
@@ -39,7 +39,7 @@
 <div class="container">
     <div class="row justify-content-between align-items-center">
         <div class="mb-md-0 col-xl-5 col-lg-4 col-md-2 col-sm-6 d-md-flex align-items-stretch image justify-content-end">
-            <img src="../../assets/images/mbr-1036x1036.jpg" alt="" data-target="#mbrCarousel" data-bs-target="#mbrCarousel" data-slide-to="0" data-bs-slide-to="0" title="">
+            <img src="../../../assets/images/mbr-1036x1036.jpg" alt="" data-target="#mbrCarousel" data-bs-target="#mbrCarousel" data-slide-to="0" data-bs-slide-to="0" title="">
         </div>
         <div class="col-xl-6 col-lg-7 col-md-12 content__block">
             
@@ -50,7 +50,7 @@
                 
             <div class="d-sm-flex align-items-center product__item">
                     <div class="image__item flex-shrink-0">
-                        <img src="../../assets/images/design31.jpg" alt="" data-target="#mbrCarousel" data-bs-target="#mbrCarousel" data-slide-to="0" data-bs-slide-to="0" title="">
+                        <img src="../../../assets/images/design31.jpg" alt="" data-target="#mbrCarousel" data-bs-target="#mbrCarousel" data-slide-to="0" data-bs-slide-to="0" title="">
                     </div>
                     <div class="item__text">
                         <div class="d-flex justify-content-between align-items-baseline item__title">
@@ -74,7 +74,7 @@
                     </div>
                 </div><div class="d-sm-flex align-items-center product__item">
                     <div class="image__item flex-shrink-0">
-                        <img src="../../assets/images/design21.jpg" alt="" data-target="#mbrCarousel" data-bs-target="#mbrCarousel" data-slide-to="0" data-bs-slide-to="0" title="">
+                        <img src="../../../assets/images/design21.jpg" alt="" data-target="#mbrCarousel" data-bs-target="#mbrCarousel" data-slide-to="0" data-bs-slide-to="0" title="">
                     </div>
                     <div class="item__text">
                         <div class="d-flex justify-content-between align-items-baseline item__title">
@@ -98,7 +98,7 @@
                     </div>
                 </div><div class="d-sm-flex align-items-center product__item">
                     <div class="image__item flex-shrink-0">
-                        <img src="../../assets/images/design20.jpg" alt="" data-target="#mbrCarousel" data-bs-target="#mbrCarousel" data-slide-to="0" data-bs-slide-to="0" title="">
+                        <img src="../../../assets/images/design20.jpg" alt="" data-target="#mbrCarousel" data-bs-target="#mbrCarousel" data-slide-to="0" data-bs-slide-to="0" title="">
                     </div>
                     <div class="item__text">
                         <div class="d-flex justify-content-between align-items-baseline item__title">
@@ -132,10 +132,4 @@
 export default {
     
 }
-</script>
-
-<script setup>
-    useHead({
-        title: 'Subscriptions',
-    })
 </script>

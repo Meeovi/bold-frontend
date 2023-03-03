@@ -15,7 +15,7 @@
         <div class="col-md-6 text-element">
             <div class="text-content">
                 <h2 class="mbr-title pt-2 mbr-fonts-style align-left mbr-white display-2">
-                    Subscriptions
+                    Buy Again
                 </h2>
                 
                 <div class="mbr-section-text">
@@ -136,6 +136,6 @@ export default {
 
 <script setup>
     useHead({
-        title: 'Subscriptions',
+        title: 'Buy Again',
     })
 </script>

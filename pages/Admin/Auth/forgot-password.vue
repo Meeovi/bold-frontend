@@ -22,19 +22,20 @@
 </template>
 
 <script>
-    /* eslint-disable camelcase 
+    /* 
     import gql from "graphql-tag";
-    //import findManyUsers from "~/graphql/query/findManyUsers";
+    import findManyUsers from "~/graphql/query/findManyUsers";
+    // import  tax from '~/graphql/query/findManyTax'
 
     const ADD_USER = gql `
     mutation ($email: String!){
     createOneUsers(data: {email: $email}) {
         email
   }
-}`;
-*/
+}`;*/
+
     export default {
-    /*    data() {
+  /*      data() {
             return {
                 email: " ",
             }

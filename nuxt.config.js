@@ -15,6 +15,7 @@ export default defineNuxtConfig({
     'vuetify/lib/styles/main.sass',
     '@mdi/font/css/materialdesignicons.min.css',
     '@fortawesome/fontawesome-svg-core/styles.css',
+    'assets/commerce/css/ui.css',
     'assets/styles/styles.css',
   ],
 
@@ -22,16 +23,10 @@ export default defineNuxtConfig({
     '@nuxtjs/apollo',
     //'@sidebase/nuxt-auth',
     '@nuxt/content',
-    '@nuxtjs/i18n',
-    "nuxt-security",
-    'nuxt-vue3-google-signin',
+    //'@nuxtjs/i18n',
     'nuxt-meilisearch',
   ],
 
-  googleSignIn: {
-    clientId: 'CLIENT ID OBTAINED FROM GOOGLE API CONSOLE',
-  },
-  
 /*
   auth: {
     // The module is enabled. Change this to disable the module
@@ -59,7 +54,7 @@ export default defineNuxtConfig({
     }
  },
 
-  i18n: {
+ /* i18n: {
     strategy: 'no_prefix',
     en: { pathMatch: ['not-found-my-post'] },
     fr: { pathMatch: ['not-found-mon-article'] },
@@ -82,13 +77,12 @@ export default defineNuxtConfig({
       useCookie: true,
       cookieCrossOrigin: true
     }
-  },
+  }, */
 
   apollo: {
     clients: {
       default: {
         httpEndpoint: 'http://localhost:4000/graphql',
-        wsEndpoint: "ws://localhost:4000/graphql"
       }
     },
   },
