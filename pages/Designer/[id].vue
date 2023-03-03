@@ -9,7 +9,7 @@
 <div class="container">
     <div class="media-container-row">
         <div class="mbr-figure pr-lg-5" style="width: 130%;">
-          <img src="../assets/images/face1.jpg">
+          <img src="../../assets/images/face1.jpg">
         </div>
         <div class="media-content px-3 align-self-center mbr-white py-2">
                 <p class="mbr-text testimonial-text mbr-fonts-style display-7">
@@ -98,7 +98,7 @@
         <div class="card col-12 col-md-6 p-3 col-lg-4">
             <div class="card-wrapper">
                 <div class="card-img">
-                    <img src="../assets/images/product1.jpg" alt="ShopnBold">
+                    <img src="../../assets/images/product1.jpg" alt="ShopnBold">
                 </div>
                 <div class="card-box">
                     <h4 class="card-title mbr-fonts-style display-5">
@@ -121,7 +121,7 @@
         <div class="card col-12 col-md-6 p-3 col-lg-4">
             <div class="card-wrapper">
                 <div class="card-img">
-                    <img src="../assets/images/product1.jpg" alt="ShopnBold">
+                    <img src="../../assets/images/product1.jpg" alt="ShopnBold">
                 </div>
                 <div class="card-box">
                     <h4 class="card-title mbr-fonts-style display-5">
@@ -144,7 +144,7 @@
         <div class="card col-12 col-md-6 p-3 col-lg-4 last-child">
             <div class="card-wrapper">
                 <div class="card-img">
-                    <img src="../assets/images/product1.jpg" alt="ShopnBold">
+                    <img src="../../assets/images/product1.jpg" alt="ShopnBold">
                 </div>
                 <div class="card-box">
                     <h4 class="card-title mbr-fonts-style display-5">
@@ -188,7 +188,7 @@
         <div class="card col-12 col-md-6 p-3 col-lg-4">
             <div class="card-wrapper">
                 <div class="card-img">
-                    <img src="../assets/images/product1.jpg" alt="ShopnBold">
+                    <img src="../../assets/images/product1.jpg" alt="ShopnBold">
                 </div>
                 <div class="card-box">
                     <h4 class="card-title mbr-fonts-style display-5">
@@ -211,7 +211,7 @@
         <div class="card col-12 col-md-6 p-3 col-lg-4">
             <div class="card-wrapper">
                 <div class="card-img">
-                    <img src="../assets/images/product1.jpg" alt="ShopnBold">
+                    <img src="../../assets/images/product1.jpg" alt="ShopnBold">
                 </div>
                 <div class="card-box">
                     <h4 class="card-title mbr-fonts-style display-5">
@@ -234,7 +234,7 @@
         <div class="card col-12 col-md-6 p-3 col-lg-4 last-child">
             <div class="card-wrapper">
                 <div class="card-img">
-                    <img src="../assets/images/product1.jpg" alt="ShopnBold">
+                    <img src="../../assets/images/product1.jpg" alt="ShopnBold">
                 </div>
                 <div class="card-box">
                     <h4 class="card-title mbr-fonts-style display-5">
@@ -276,7 +276,7 @@
                     <div class="mbr-section-btn text-center">
                         <a href="/" class="btn btn-primary display-4">Learn More</a>
                     </div>
-                    <img src="../assets/images/background1.jpg" alt="ShopnBold">
+                    <img src="../../assets/images/background1.jpg" alt="ShopnBold">
                 </div>
                 <div class="card-box">
                     <h4 class="card-title mbr-fonts-style display-7">
@@ -295,7 +295,7 @@
                     <div class="mbr-section-btn text-center">
                         <a href="/" class="btn btn-primary display-4">Learn More</a>
                     </div>
-                    <img src="../assets/images/background2.jpg" alt="ShopnBold">
+                    <img src="../../assets/images/background2.jpg" alt="ShopnBold">
                 </div>
                 <div class="card-box">
                     <h4 class="card-title mbr-fonts-style display-7">
@@ -315,7 +315,7 @@
                     <div class="mbr-section-btn text-center">
                         <a href="/" class="btn btn-primary display-4">Learn More</a>
                     </div>
-                    <img src="../assets/images/background3.jpg" alt="ShopnBold">
+                    <img src="../../assets/images/background3.jpg" alt="ShopnBold">
                 </div>
                 <div class="card-box">
                     <h4 class="card-title mbr-fonts-style display-7">

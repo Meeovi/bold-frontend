@@ -30,7 +30,7 @@
         <div class="card p-3 col-12 col-md-6 col-lg-4">
             <div class="card-wrapper">
                 <div class="card-img">
-                    <img src="../assets/images/background1.jpg" alt="ShopnBold">
+                    <img src="../../assets/images/background1.jpg" alt="ShopnBold">
                 </div>
                 <div class="card-box">
                     <h4 class="card-title mbr-fonts-style display-7">
@@ -51,7 +51,7 @@
         <div class="card p-3 col-12 col-md-6 col-lg-4">
             <div class="card-wrapper">
                 <div class="card-img">
-                    <img src="../assets/images/background2.jpg" alt="ShopnBold">
+                    <img src="../../assets/images/background2.jpg" alt="ShopnBold">
                 </div>
                 <div class="card-box">
                     <h4 class="card-title mbr-fonts-style display-7">
@@ -72,7 +72,7 @@
         <div class="card p-3 col-12 col-md-6 col-lg-4">
             <div class="card-wrapper">
                 <div class="card-img">
-                    <img src="../assets/images/background3.jpg" alt="ShopnBold">
+                    <img src="../../assets/images/background3.jpg" alt="ShopnBold">
                 </div>
                 <div class="card-box">
                     <h4 class="card-title mbr-fonts-style display-7">
