@@ -30,7 +30,7 @@
             <div class="card px-3 py-4 col-md-4">
                 <div class="card-wrapper flip-card">
                     <div class="card-img">
-                        <img src="../../../assets/images/background16.jpg" alt="" title="">
+                        <img src="../../../assets/images/background9.jpg" alt="" title="">
                         <div class="img-text mbr-text mbr-fonts-style align-center mbr-white display-4">Customer story</div>
                     </div>
                     <div class="card-box">
@@ -48,7 +48,7 @@
             <div class="card px-3 py-4 col-md-4">
                 <div class="card-wrapper flip-card">
                     <div class="card-img">
-                        <img src="../../../assets/images/12.jpg" alt="" title="">
+                        <img src="../../../assets/images/face1.jpg" alt="" title="">
                         <div class="img-text mbr-text mbr-fonts-style align-center mbr-white display-4">
                              Outlook
                         </div>
@@ -68,7 +68,7 @@
             <div class="card px-3 py-4 col-md-4">
                 <div class="card-wrapper flip-card">
                     <div class="card-img">
-                        <img src="../../../assets/images/13.jpg" alt="" title="">
+                        <img src="../../../assets/images/face1.jpg" alt="" title="">
                         <div class="img-text mbr-text mbr-fonts-style align-center mbr-white display-4">Kitchen stories</div>
                     </div>
                     <div class="card-box">
