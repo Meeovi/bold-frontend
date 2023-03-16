@@ -9,10 +9,6 @@ type NuxtAppInjections =
   InjectionType<typeof import("../components.plugin").default> &
   InjectionType<typeof import("../../node_modules/nuxt/dist/head/runtime/lib/vueuse-head.plugin").default> &
   InjectionType<typeof import("../../node_modules/nuxt/dist/pages/runtime/router").default> &
-  InjectionType<typeof import("../../node_modules/nuxt-vue3-google-signin/dist/runtime/plugin").default> &
-  InjectionType<typeof import("../../node_modules/@nuxtjs/i18n/dist/runtime/plugins/composition").default> &
-  InjectionType<typeof import("../../node_modules/@nuxtjs/i18n/dist/runtime/plugins/i18n").default> &
-  InjectionType<typeof import("../../node_modules/@nuxt/content/dist/runtime/plugins/ws").default> &
   InjectionType<typeof import("../../node_modules/@nuxtjs/apollo/dist/runtime/plugin").default> &
   InjectionType<typeof import("../../plugins/fontawesome").default> &
   InjectionType<typeof import("../../plugins/instantsearch").default> &

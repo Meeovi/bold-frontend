@@ -1,127 +1,123 @@
 <template>
     <div>
-        <section data-bs-version="5.1" class="features16 cid-twc33vqs90" id="features16-1i" data-sortbtn="btn-primary">
+        <section class="mbr-section content5 cid-tyE1ec8tHY" id="content5-25">
 
     
 
     
-<div class="container-fluid">
-    <div class="row main align-items-center">
-        <div class="col-md-6 image-element align-self-stretch">
-            <div class="img-wrap" style="width: 80%; height: 80%;">
-                <img src="../../../assets/images/mbr-1553x1553.jpg" alt="">
-            </div>
-        </div>
-        <div class="col-md-6 text-element">
-            <div class="text-content">
-                <h2 class="mbr-title pt-2 mbr-fonts-style align-left mbr-white display-2">
-                    New Arrivals
-                </h2>
-                
-                <div class="mbr-section-text">
-                    <p class="mbr-text pt-3 mbr-light mbr-fonts-style align-left mbr-white display-7">
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos aliquam, fugit odio porro quas molestiae placeat voluptas id rem vero.
-                    </p>
-                </div>
-                <div class="mbr-section-btn pt-3 align-left"><a class="btn btn-md btn-success display-4" href="/admin/my-account">My Account</a></div>
-            </div>
-        </div>
-    </div>
-</div>          
-</section>
-
-<section data-bs-version="5.1" class="shop2 marketm4_shop2 cid-twc3kYGo4j" id="shop2-1j" data-sortbtn="btn-primary">
-
-
-
-
 
 <div class="container">
-    <div class="row justify-content-between align-items-center">
-        <div class="mb-md-0 col-xl-5 col-lg-4 col-md-2 col-sm-6 d-md-flex align-items-stretch image justify-content-end">
-            <img src="../../../assets/images/mbr-1036x1036.jpg" alt="" data-target="#mbrCarousel" data-bs-target="#mbrCarousel" data-slide-to="0" data-bs-slide-to="0" title="">
-        </div>
-        <div class="col-xl-6 col-lg-7 col-md-12 content__block">
+    <div class="media-container-row">
+        <div class="title col-12 col-md-8">
+            <h2 class="align-center mbr-bold mbr-white pb-3 mbr-fonts-style display-1">
+                Single List</h2>
             
             
-            <div class="block__products">
-                
-                
-                
-            <div class="d-sm-flex align-items-center product__item">
-                    <div class="image__item flex-shrink-0">
-                        <img src="../../../assets/images/design31.jpg" alt="" data-target="#mbrCarousel" data-bs-target="#mbrCarousel" data-slide-to="0" data-bs-slide-to="0" title="">
-                    </div>
-                    <div class="item__text">
-                        <div class="d-flex justify-content-between align-items-baseline item__title">
-                            <p class="name__item mbr-medium mbr-fonts-style display-4">
-                                PRODUCT NAME
-                            </p>
-                            <p class="item__price mbr-fonts-style display-4">
-                                $500
-                            </p>
-                        </div>
-                        <div class="item__descr">
-                            <p class="descr__text mbr-fonts-style display-4">
-                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Hic, quam.
-                            </p>
-                        </div>
-                        <div class="item__buttons">
-                            <div class="mbr-section-btn">
-                                <a class="btn btn-sm btn-info display-4" href="#">Buy Now</a><a class="btn btn-sm btn-warning-outline display-4" href="#">More Info</a>
-                            </div>
-                        </div>
-                    </div>
-                </div><div class="d-sm-flex align-items-center product__item">
-                    <div class="image__item flex-shrink-0">
-                        <img src="../../../assets/images/design21.jpg" alt="" data-target="#mbrCarousel" data-bs-target="#mbrCarousel" data-slide-to="0" data-bs-slide-to="0" title="">
-                    </div>
-                    <div class="item__text">
-                        <div class="d-flex justify-content-between align-items-baseline item__title">
-                            <p class="name__item mbr-medium mbr-fonts-style display-4">
-                                PRODUCT NAME
-                            </p>
-                            <p class="item__price mbr-fonts-style display-4">
-                                $100
-                            </p>
-                        </div>
-                        <div class="item__descr">
-                            <p class="descr__text mbr-fonts-style display-4">
-                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Hic, quam.
-                            </p>
-                        </div>
-                        <div class="item__buttons">
-                            <div class="mbr-section-btn">
-                                <a class="btn btn-sm btn-info display-4" href="#">Buy Now</a><a class="btn btn-sm btn-warning-outline display-4" href="#">More Info</a>
-                            </div>
-                        </div>
-                    </div>
-                </div><div class="d-sm-flex align-items-center product__item">
-                    <div class="image__item flex-shrink-0">
-                        <img src="../../../assets/images/design20.jpg" alt="" data-target="#mbrCarousel" data-bs-target="#mbrCarousel" data-slide-to="0" data-bs-slide-to="0" title="">
-                    </div>
-                    <div class="item__text">
-                        <div class="d-flex justify-content-between align-items-baseline item__title">
-                            <p class="name__item mbr-medium mbr-fonts-style display-4">
-                                PRODUCT NAME
-                            </p>
-                            <p class="item__price mbr-fonts-style display-4">
-                                $94.55
-                            </p>
-                        </div>
-                        <div class="item__descr">
-                            <p class="descr__text mbr-fonts-style display-4">
-                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Hic, quam.
-                            </p>
-                        </div>
-                        <div class="item__buttons">
-                            <div class="mbr-section-btn">
-                                <a class="btn btn-sm btn-info display-4" href="#">Buy Now</a><a class="btn btn-sm btn-warning-outline display-4" href="#">More Info</a>
-                            </div>
-                        </div>
-                    </div>
-                </div></div>
+            
         </div>
+    </div>
+</div>
+</section>
+
+<section class="services4 cid-tyE1cAtjDD" id="services4-24">
+<!---->
+
+<!---->
+<!--Overlay-->
+
+<!--Container-->
+<div class="container">
+    <div class="row">
+        <!--Card-1-->
+        <div class="card p-3 col-12">
+            <div class="card-wrapper media-container-row media-container-row">
+                <div class="card-box">
+                    <div class="row">
+                        <div class="col-12 col-md-12 col-lg-4">
+                            <div class="wrapper">
+                                <!--Image-->
+                                <div class="mbr-figure" style="width: 100%;">
+                                    <img src="../../../assets/images/product1.jpg" alt="">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-12 col-md-7 col-lg-4">
+                            <div class="wrapper col-left">
+                                <!--Title-->
+                                <h4 class="card-title mbr-fonts-style display-5">
+                                    Watch Special
+                                </h4>
+                                <!--Subtitle-->
+                                <p class="mbr-text mbr-fonts-style pt-3 display-7">
+                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci consectetur
+                                    tempora totam voluptas voluptatem voluptatibus.
+                                </p>
+                            </div>
+                        </div>
+                        <div class="col-12 col-md-5 col-lg-4">
+                            <div class="wrapper border_wrapper">
+                                <!--Cost-->
+                                <p class="mbr-text mbr-fonts-style col-right mbr-black align-center display-2">
+                                    $990
+                                </p>
+                                <!--Btn-->
+                                <div class="mbr-section-btn col-right align-center">
+                                    <a href="#" class="btn btn-warning-outline m-0 display-4">
+                                        Buy Now
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!--Card-2-->
+        <div class="card p-3 col-12">
+            <div class="card-wrapper media-container-row media-container-row">
+                <div class="card-box">
+                    <div class="row">
+                        <div class="col-12 col-md-12 col-lg-4">
+                            <div class="wrapper">
+                                <!--Image-->
+                                <div class="mbr-figure" style="width: 100%;">
+                                    <img src="../../../assets/images/product1.jpg" alt="">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-12 col-md-7 col-lg-4">
+                            <div class="wrapper col-left">
+                                <!--Title-->
+                                <h4 class="card-title mbr-fonts-style display-5">
+                                    Watch Special
+                                </h4>
+                                <!--Subtitle-->
+                                <p class="mbr-text mbr-fonts-style pt-3 display-7">
+                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci consectetur
+                                    tempora totam voluptas voluptatem voluptatibus.
+                                </p>
+                            </div>
+                        </div>
+                        <div class="col-12 col-md-5 col-lg-4">
+                            <div class="wrapper border_wrapper">
+                                <!--Cost-->
+                                <p class="mbr-text mbr-fonts-style col-right mbr-black align-center display-2">
+                                    $990
+                                </p>
+                                <!--Btn-->
+                                <div class="mbr-section-btn col-right align-center">
+                                    <a href="#" class="btn btn-warning-outline m-0 display-4">
+                                        Buy Now
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!--Card-3-->
+        
     </div>
 </div>
 </section>
@@ -132,4 +128,10 @@
 export default {
     
 }
+</script>
+
+<script setup>
+    useHead({
+        title: 'Events',
+    })
 </script>

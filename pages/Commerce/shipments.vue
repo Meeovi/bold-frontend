@@ -5,7 +5,7 @@
                 <v-toolbar-title>Shipments</v-toolbar-title>
             </v-col>
             <v-col cols="2">
-                <createShipment />
+                
             </v-col>
         </v-toolbar>
         <v-table fixed-header height="300px" width="100%">
@@ -47,12 +47,12 @@
 </template>
 
 <script>
-    import createShipment from '../../components/settings/addSetting/add-shipment.vue'
+    //import createShipment from '../../components/settings/addSetting/add-shipment.vue'
     //import findManyPages from '../../../graphql/query/findManyPages.gql'
 
     export default {
         components: {
-            createShipment,
+            //createShipment,
             //editUser
         },
     /*    data() {

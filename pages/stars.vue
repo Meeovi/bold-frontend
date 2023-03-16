@@ -12,7 +12,7 @@
                 <div class="card col-12 col-md-6 p-3 col-lg-4">
                     <div class="card-wrapper">
                         <div class="card-img">
-                            <img src="../../assets/images/product1.jpg" alt="ShopnBold">
+                            <img src="../assets/images/product1.jpg" alt="ShopnBold">
                         </div>
                         <div class="card-box">
                             <h4 class="card-title mbr-fonts-style display-5">
